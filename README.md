@@ -1,8 +1,8 @@
-src\context\cart.jsx
-src\app\App.js
-src\components\Cart.js
-src\components\CartFooter.js
-src\components\CartList.js
+# src\context\cart.jsx 
+# src\app\App.js
+# src\components\Cart.js
+# src\components\CartFooter.js
+# src\components\CartList.js
 
 입니다. 해당 브랜치에 push를 계속 실패하여 수정된 파일만 올려드립니다.
 해당 부분 확인부탁드려요ㅠ
